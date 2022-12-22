@@ -4,7 +4,7 @@
 # Add Command
 Use this command to add a task
 
-a [tasktype](optional) [date] [description of task]
+a (optional)[tasktype]  [date] [description of task]
  Example: a 12Dec2022 do a little task
 
 tasktype: enter d/w/m for a daily/weekly/monthly task respectively.
