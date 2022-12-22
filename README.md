@@ -5,7 +5,7 @@
 Use this command to add a task
 
 a (optional)[tasktype]  [date] [description of task]
- Example: a 12Dec2022 do a little task
+Example: a 12Dec2022 do a little task
 
 tasktype: enter d/w/m for a daily/weekly/monthly task respectively.
 date: format is dMMMyyy NOTE! MMM has to be capitalized - 12Dec2022
